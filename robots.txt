@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rokda7gem.co.in/sitemap.xml
